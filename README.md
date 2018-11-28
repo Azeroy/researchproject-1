@@ -1,4 +1,4 @@
-# scienceproject
+# research project
 A project about my super fancy research
 Wow, I'm on the internet!
 ## usage
